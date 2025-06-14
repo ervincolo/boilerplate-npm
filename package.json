@@ -3,6 +3,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"version": "1.2.0",
 	"description": "My first node.js project",
 	"keywords": [ "descriptive", "related", "freecodecamp" ],
 	"license":  "MIT",
