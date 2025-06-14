@@ -4,6 +4,7 @@
 		"express": "^4.14.0"
 	},
 	"description": "My first node.js project",
+	"keywords": [ "descriptive", "related", "freecodecamp" ],
 	"author": "Ervin Colo",
 	"main": "server.js",
 	"scripts": {
