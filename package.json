@@ -3,6 +3,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"description": "My first node.js project",
 	"author": "Ervin Colo",
 	"main": "server.js",
 	"scripts": {
